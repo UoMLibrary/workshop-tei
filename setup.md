@@ -28,13 +28,14 @@ The following files are available under CC BY-NC 4.0 [licence](../LICENSE.html) 
 # XML editor
 You will need to use an XML text editor. We recommend Oxygen XML, if available.
 
-Free alternatives include [JEdit](http://www.jedit.org/index.php?page=download) and 
-[TEI Web Editor](https://tei-web-editor.herokuapp.com). 
+Free alternatives include [JEdit](http://www.jedit.org/index.php?page=download), the 
+[TEI Web Editor](https://tei-web-editor.herokuapp.com) and the TEI/XML editor of the [TextGrid Lab](https://textgrid.de/en/web/guest/textgrid-tools-und-services). 
 
 - JEdit is a free text editor that works on any platform and includes syntax highlighting for XML and TEI code.
 - TEI Web Editor is an online tool in which you can input TEI and see how it would display. 
   It doesn’t have all the functionality of Oxygen, 
-  but it’s also not as complex to learn if you just want to see how things would look.
+  but it’s also not as complex to learn if you just want to see how things would look
+- The TextGridLab is a virtual research environment with a variety of tools optimized for TEI/XML development. One of these tools is the XML editor which includes syntax highlighting and validation.
 
 ### Installing Oxygen
 
